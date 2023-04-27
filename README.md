@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am full-stack developer from Paris
+I am full-stack developer from Antibes
 
 - 💻 I use daily Ruby on Rails, JavaSript, React, HTML, CSS, Heroku
 - ⚙️ Check out the project I worked on 🚀 <a href="http://www.sharedgoal.org">SharedGoal</a>
