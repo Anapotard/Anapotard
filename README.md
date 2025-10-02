@@ -1,7 +1,8 @@
-Hi there 👋
+### Hi there 👋
 
-I am full-stack developer from Antibes
+I'm Anastasiya — a Frontend Developer based in Antibes, France 🇫🇷
 
-- 💻 I use daily Ruby on Rails, JavaSript, React, HTML, CSS, Heroku
-- ⚙️ Check out the project I worked on 🚀 <a href="http://www.sharedgoal.org">SharedGoal</a>
-- 📫 Reach me on <a href="https://www.linkedin.com/in/anastasiya-kim">LinkedIn</a>
+- 💻 I work daily with React, TypeScript, Redux, and modern styling tools (Tailwind / MUI)
+- 🚀 Check out one of my first projects: [Leravyn](https://leravyn.com/)
+- 🌱 Always learning — diving deeper into **testing, performance, and clean UI architecture**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anastasiya-kim)
